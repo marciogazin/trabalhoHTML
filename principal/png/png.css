@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(247, 241, 241);
+}
+.infoone{
+    color: rgb(5, 119, 5);
+    text-align: center;
+}
+.infotwo{
+    text-align: center;
+    color: RED;
+}
+img{
+    height: 25rem;
+    width: 25rem;
+}
+ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: Blue;
+}

@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.infoone{
+    color: rgb(53, 255, 53);
+    text-align: center;
+}
+.infotwo{
+    text-align: center;
+    color: RED;
+}
+img{
+    height: 25rem;
+    width: 25rem;
+}
+.image{
+    height: 10rem;
+    width: 30rem;
+}
+ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    font-size: 10pt;
+}
